@@ -13,7 +13,7 @@ Repositório Criado por: https://github.com/adsmendesdaniel
   Inicialmente, analisaremos o *dataset* referente à mortes causadas por Síndrome Respiratória Aguda (SRAG) durante os anos 2018, 2019 e 2020 (até a 18ª semana epidemiológica). Donde podemos obter o sequinte gráfico:
   
   <p align="center">
-  <img src="obitos_srag_semana_epidemiologica_brasil.png" align=middle height=300pt/>
+  <img src="obitos_srag_semana_epidemiologica_brasil.png" align=middle/>
   </p>
   
 ## ETAPA 2: Estimar uma série temporal de mortes causadas por COVID-19 (junto a problemas advindos da pandemia) a partir dos dados anteriores:
@@ -25,7 +25,7 @@ Repositório Criado por: https://github.com/adsmendesdaniel
   </p>
   
   <p align="center">
-  <img src="estimativa_obitos_covid_19.png" align=middle height=400/>
+  <img src="estimativa_obitos_covid_19.png" align=middle/>
   </p>
 
 ## ETAPA 3: Estimar mortes subnotificadas causadas por COVID-19:

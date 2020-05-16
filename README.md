@@ -32,7 +32,7 @@ Repositório Criado por: https://github.com/adsmendesdaniel
 
 ## ETAPA 3: Estimar mortes subnotificadas causadas por COVID-19:
 
-  Podemos obter a aquantidade de mortes por SRAG esperadas por ano tomando a média dos pontos da curva de média de mortes dos anos 2018 e 2019. Fazendo o somatório dos valores da série temporal da média e dos casos de morte do ano de 2020 (até a 18ª semana epidemiológica) podemos obter a diferença, que corresponderá à uma estimativa do número de mortes causadas exclusivamente por fatores advindos do COVID-19.
+  Podemos obter a quantidade de mortes por SRAG esperadas por ano tomando a média dos pontos da curva de média de mortes dos anos 2018 e 2019. Fazendo o somatório dos valores da série temporal da média e dos casos de morte do ano de 2020 (até a 18ª semana epidemiológica) podemos obter a diferença, que corresponderá à uma estimativa do número de mortes causadas exclusivamente por fatores advindos do COVID-19.
   
   Nos *datasets* disponibilizados por ICICT/Fiocruz podemos obter a quantidade de casos de morte por SRAG registradas como COVID-19. Então podemos calcular a diferença e obter uma estimativa para a quantidade de óbitos subnotificados de COVID-19, assim como sua devida porcentagem.
   

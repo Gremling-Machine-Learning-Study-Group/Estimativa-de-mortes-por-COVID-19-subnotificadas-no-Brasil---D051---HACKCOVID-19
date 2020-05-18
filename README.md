@@ -4,6 +4,12 @@
 
 Repositório Criado por: https://github.com/adsmendesdaniel
 
+Parte 2 do projeto: https://github.com/Gremling-Machine-Learning-Study-Group/Deep-Learning-na-analise-de-imagens-de-raio-x-para-auxilio-na-decisao-clinica-de-COVID-19
+
+Página do projeto no Devpost: https://devpost.com/software/test_deep_covid-19#updates
+
+Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i4YI
+
 **Atenção:** Este é um modelo extremamente simples para tentar estimar os óbitos subnotificados, feito em curto espaço de tempo para uma *Hackathon*. Logo, um modelo mais sofisticado poderia ser criado para se alcançarem melhores resultados e, consequentemente, se obter uma melhor confiabilidade.
 
 ## ETAPA 1: Visualizar os dados:

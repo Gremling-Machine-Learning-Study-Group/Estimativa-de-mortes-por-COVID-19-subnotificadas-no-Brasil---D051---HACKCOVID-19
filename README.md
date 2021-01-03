@@ -29,7 +29,7 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   Gráfico atualizado (03/01/2021):
   
   <p align="center">
-  <img src="obitos_srag_semana_epidemiologica_brasil_new.png" align=middle/>
+  <img src="obitos_semana_epidemiologica_brasil_new.png" align=middle/>
   </p>
   
 ## ETAPA 2: Estimar uma série temporal de mortes causadas por COVID-19 (junto a problemas advindos da pandemia) a partir dos dados anteriores:
@@ -49,7 +49,7 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   Gráfico atualizado (03/01/2021):
   
   <p align="center">
-  <img src="estimativa_obitos_covid_19_new.png" align=middle/>
+  <img src="obitos_semana_epidemiologica_brasil_media_new.png" align=middle/>
   </p>
 
   *Obs: é de se notar que quanto mais anos tivessemos para gerar a "curva média" mais bem comportada ela ficaria, desta forma, pode ser de senso comum que o ajuste de uma curva gaussiana poderia solucionar esse problema. Porém, desta forma correriamos o risco de perder informação que estaria contida em uma "curva média" ideal. Assim, foi decidido deixar a "curva média" da forma que está. Onde uma solução válida seria adicionar dados de anos anteriores, para que assim a "curva média" corresponda fielmente à realidade.*

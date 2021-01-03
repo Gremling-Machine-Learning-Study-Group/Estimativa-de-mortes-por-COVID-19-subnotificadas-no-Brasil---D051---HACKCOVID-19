@@ -1,5 +1,7 @@
 # Estimativa de mortes por COVID-19 subnotificadas no Brasil - D051 -HACKCOVID-19
 
+(Última atualização: 30/01/2021)
+
   Parte 1 do desafio "IA E CIÊNCIA DE DADOS PARA APOIO A DECISÃO CLÍNICA" da *Hackathon* 'Hackcovid19' do Centro Brasileiro de Pesquisas Físicas, onde utilizamos conceitos simples de estatística, probabilidade e *datascience* para tentar estimar a quantidade de casos de mortes por Síndrome Respiratória Aguda que foram causadas por COVID-19, porém não foram reportadas como tal.
 
 Repositório Criado por: https://github.com/adsmendesdaniel
@@ -18,16 +20,32 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   
   Inicialmente, analisaremos o *dataset* referente à mortes causadas por Síndrome Respiratória Aguda (SRAG) durante os anos 2018, 2019 e 2020 (até a 18ª semana epidemiológica). Donde podemos obter o sequinte gráfico:
   
+  Gráfico antigo:
+  
   <p align="center">
   <img src="obitos_srag_semana_epidemiologica_brasil.png" align=middle/>
+  </p>
+  
+  Gráfico atualizado (03/01/2021):
+  
+  <p align="center">
+  <img src="obitos_srag_semana_epidemiologica_brasil_new.png" align=middle/>
   </p>
   
 ## ETAPA 2: Estimar uma série temporal de mortes causadas por COVID-19 (junto a problemas advindos da pandemia) a partir dos dados anteriores:
 
   A metodologia foi obter médias dos casos (morte por SRAG) dos anos anteriores disponíveis (2018 e 2019) e gerar uma "curva" para que, então, subtraiamos da "curva" de mortes do ano decorrente (2020), e assim obtenhamos uma nova séries temporal de pontos correspondentes à uma estimativa de mortos por SRAG causada por COVID-19. Os resultados foram os seguintes:
 
+  Gráfico antigo:
+  
   <p align="center">
   <img src="obitos_srag_semana_epidemiologica_brasil_media.png" align=middle/>
+  </p>
+  
+  Gráfico atualizado (03/01/2021):
+  
+  <p align="center">
+  <img src="obitos_srag_semana_epidemiologica_brasil_media_new.png" align=middle/>
   </p>
   
   <p align="center">
@@ -44,7 +62,7 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   
   Os dados obtidos em todo o processo são os seguintes:
   
-  **Resultados:**
+  **Resultados antigos:**
   
   - Mortes decorrentes de SRAG esperadas por ano: 5403.0 
   - Mortes decorrentes de SRAG até a 18ª semana epidemiológica: 1555.0 
@@ -52,6 +70,15 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   - Óbitos confirmados por COVID-19 até a 18ª semana epidemiológica: 8547.0
   - Estimativa de mortes por COVID-19 que não foram catalogadas como tal: 9570.0
   - Porcentagem de mortes por COVID-19 subnotificadas: 52.8233151% 
+  
+    **Resultados atualizados (03/01/2021):**
+  
+  - Mortes decorrentes de SRAG esperadas por ano: 5403.0 
+  - Mortes decorrentes de SRAG até a 50ª semana epidemiológica: 5336.0  
+  - Estimativa de mortes decorrentes de COVID-19 até a 50ª semana epidemiológica: 252620.0
+  - Óbitos confirmados por COVID-19 até a 50ª semana epidemiológica: 182110.0
+  - Estimativa de mortes por COVID-19 que não foram catalogadas como tal: 70510.0 
+  - Porcentagem de mortes por COVID-19 subnotificadas: 27.9114876% 
   
 ## Referencias:
 

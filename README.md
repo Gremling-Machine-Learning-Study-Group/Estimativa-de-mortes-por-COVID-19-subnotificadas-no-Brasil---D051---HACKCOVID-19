@@ -36,20 +36,20 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
 
   A metodologia foi obter médias dos casos (morte por SRAG) dos anos anteriores disponíveis (2018 e 2019) e gerar uma "curva" para que, então, subtraiamos da "curva" de mortes do ano decorrente (2020), e assim obtenhamos uma nova séries temporal de pontos correspondentes à uma estimativa de mortos por SRAG causada por COVID-19. Os resultados foram os seguintes:
 
-  Gráfico antigo:
-  
   <p align="center">
   <img src="obitos_srag_semana_epidemiologica_brasil_media.png" align=middle/>
   </p>
   
-  Gráfico atualizado (03/01/2021):
-  
-  <p align="center">
-  <img src="obitos_srag_semana_epidemiologica_brasil_media_new.png" align=middle/>
-  </p>
+  Gráfico antigo:
   
   <p align="center">
   <img src="estimativa_obitos_covid_19.png" align=middle/>
+  </p>
+
+  Gráfico atualizado (03/01/2021):
+  
+  <p align="center">
+  <img src="estimativa_obitos_covid_19_new.png" align=middle/>
   </p>
 
   *Obs: é de se notar que quanto mais anos tivessemos para gerar a "curva média" mais bem comportada ela ficaria, desta forma, pode ser de senso comum que o ajuste de uma curva gaussiana poderia solucionar esse problema. Porém, desta forma correriamos o risco de perder informação que estaria contida em uma "curva média" ideal. Assim, foi decidido deixar a "curva média" da forma que está. Onde uma solução válida seria adicionar dados de anos anteriores, para que assim a "curva média" corresponda fielmente à realidade.*
@@ -71,7 +71,8 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   - Estimativa de mortes por COVID-19 que não foram catalogadas como tal: 9570.0
   - Porcentagem de mortes por COVID-19 subnotificadas: 52.8233151% 
   
-    **Resultados atualizados (03/01/2021):**
+  
+   **Resultados atualizados (03/01/2021):**
   
   - Mortes decorrentes de SRAG esperadas por ano: 5403.0 
   - Mortes decorrentes de SRAG até a 50ª semana epidemiológica: 5336.0  

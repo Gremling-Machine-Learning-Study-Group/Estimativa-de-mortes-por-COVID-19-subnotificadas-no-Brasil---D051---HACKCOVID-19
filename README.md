@@ -22,9 +22,9 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   
   Gráficos antigos, com dados de 16/05/2020 e 03/01/2021, respectivamente:
   
-  <p float="center">
-  <img src="obitos_srag_semana_epidemiologica_brasil.png"/>
-  <img src="obitos_semana_epidemiologica_brasil_new.png"/> 
+  <p align="center">
+  <img src="obitos_srag_semana_epidemiologica_brasil.png" width="49%"/>
+  <img src="obitos_semana_epidemiologica_brasil_new.png" width="49%"/> 
   </p>
   
   Gráfico atualizado (03/03/2021):
@@ -43,9 +43,9 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   
   Gráficos antigos, com dados de 16/05/2020 e 03/01/2021, respectivamente:
   
-  <p float="center">
-  <img src="estimativa_obitos_covid_19.png"/>
-  <img src="obitos_semana_epidemiologica_brasil_media_new.png"/> 
+  <p align="center">
+  <img src="estimativa_obitos_covid_19.png" width="49%"/>
+  <img src="obitos_semana_epidemiologica_brasil_media_new.png" width="49%"/> 
   </p>
   
   Gráfico atualizado (03/03/2021):
@@ -64,7 +64,9 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   
   Os dados obtidos em todo o processo são os seguintes:
   
-  **Resultados antigos:**
+### RESULTADOS ANTIGOS:
+  
+  **Resultados obtidos em 16/05/2020:** 
   
   - Mortes decorrentes de SRAG esperadas por ano: 5403.0 
   - Mortes decorrentes de SRAG até a 18ª semana epidemiológica: 1555.0 
@@ -73,8 +75,7 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   - Estimativa de mortes por COVID-19 que não foram catalogadas como tal: 9570.0
   - Porcentagem de mortes por COVID-19 subnotificadas: 52.8233151% 
   
-  
-   **Resultados atualizados (03/01/2021):**
+  **Resultados obtidos em 03/01/2021:**
   
   - Mortes decorrentes de SRAG esperadas por ano: 5403.0 
   - Mortes decorrentes de SRAG até a 50ª semana epidemiológica: 5336.0  
@@ -83,42 +84,34 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   - Estimativa de mortes por COVID-19 que não foram catalogadas como tal: 70510.0 
   - Porcentagem de mortes por COVID-19 subnotificadas: 27.9114876% 
 
+### RESULTADOS ATUALIZADOS (03/01/2021):
+   
+  **Estimativas acerca de 2020:**
+   
+  - Mortes decorrentes de SRAG esperadas por ano: 5405.5 
+  - Mortes decorrentes de SRAG em 2020: 300555.0 
+  - Estimativa de mortes decorrentes de COVID-19 em 2020: 295149.5 
+  - Óbitos confirmados por COVID-19 em 2020: 194976.0
+  - Estimativa de mortes por COVID-19 em 2020 que não foram catalogadas como tal: 105579.0 
+  - Porcentagem de mortes por COVID-19 em 2020 subnotificadas:  33.9399186% 
 
-Mortes decorrentes de SRAG esperadas por ano: 5405.5 
-
-Mortes decorrentes de SRAG em 2020: 300555.0 
-
-Estimativa de mortes decorrentes de COVID-19 em 2020: 295149.5 
-
-Óbitos confirmados por COVID-19 em 2020: 194976.0
-
-Estimativa de mortes por COVID-19 em 2020 que não foram catalogadas como tal: 105579.0 
-
-Porcentagem de mortes por COVID-19 em 2020 subnotificadas:  33.93991858363304 % 
-
-
-Mortes decorrentes de SRAG em 2021: 28458.0 
-
-Estimativa de mortes decorrentes de COVID-19 em 2021: 28170.0 
-
-Óbitos confirmados por COVID-19 em 2021: 64426.0
-
-Estimativa de mortes por COVID-19 em 2021 que não foram catalogadas como tal: -35968.0 
-
-Porcentagem de mortes por COVID-19 em 2021 subnotificadas:  -128.70429534966277 % 
-
-
-Mortes decorrentes de SRAG na pandemia: 329013.0 
-
-Estimativa de mortes decorrentes de COVID-19 na pandemia: 323319.5 
-
-Óbitos confirmados por COVID-19 na pandemia: 259402.0
-
-Estimativa de mortes por COVID-19 na pandemia que não foram catalogadas como tal: 69611.0 
-
-Porcentagem de mortes por COVID-19 na pandemia subnotificadas:  19.76914476237901 % 
-
+  **Estimativas acerca de 2021:**
   
+  - Mortes decorrentes de SRAG em 2021: 28458.0 
+  - Estimativa de mortes decorrentes de COVID-19 em 2021: 28170.0 
+  - Óbitos confirmados por COVID-19 em 2021: 64426.0
+  - Estimativa de mortes por COVID-19 em 2021 que não foram catalogadas como tal: -35968.0 
+  - Porcentagem de mortes por COVID-19 em 2021 subnotificadas:  -128.7042953% 
+
+  **Anteção:** Apesar dos resultados negativos poderem suscitar a ideia de que haja supernotificação de óbitos em 2021, é de se lembrar que há uma defasagem na atualização de de dados mais recentes, o que pode ser observado na evolução dos gráficos (quanto mais recentes as semanas, menos casos registrádos há), além de outros possíveis problemas de atualização, como informado a mim pelo Icict/Fiocruz, como represamento de dados na plataforma Infogripe. 
+
+  **Estimativas acerca da pandemia como um todo (2020 e 2021):**
+  
+  - Mortes decorrentes de SRAG na pandemia: 329013.0 
+  - Estimativa de mortes decorrentes de COVID-19 na pandemia: 323319.5 
+  - Óbitos confirmados por COVID-19 na pandemia: 259402.0
+  - Estimativa de mortes por COVID-19 na pandemia que não foram catalogadas como tal: 69611.0 
+  - Porcentagem de mortes por COVID-19 na pandemia subnotificadas:  19.7691448% 
   
 ## Referencias:
 

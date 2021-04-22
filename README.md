@@ -23,9 +23,9 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   Gráficos antigos, com dados de 16/05/2020, 03/01/2021 e 03/03/2021, respectivamente:
   
   <p align="center">
-  <img src="obitos_srag_semana_epidemiologica_brasil.png" width="33%"/>
-  <img src="obitos_semana_epidemiologica_brasil_new.png" width="33%"/>
-  <img src="obitos_semana_epidemiologica_brasil_30_30_2021.png" width="33%"/>
+  <img src="obitos_srag_semana_epidemiologica_brasil.png" width="32%"/>
+  <img src="obitos_semana_epidemiologica_brasil_new.png" width="32%"/>
+  <img src="obitos_semana_epidemiologica_brasil_30_30_2021.png" width="32%"/>
   </p>
   
   Gráfico atualizado (21/04/2021):
@@ -45,12 +45,12 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   Gráficos antigos, com dados de 16/05/2020, 03/01/2021 e 03/03/2021, respectivamente:
   
   <p align="center">
-  <img src="estimativa_obitos_covid_19.png" width="33%"/>
-  <img src="obitos_semana_epidemiologica_brasil_media_new.png" width="33%"/>
-  <img src="estimativa_obitos_covid_19_03_03_2021.png" width="33%"/>
+  <img src="estimativa_obitos_covid_19.png" width="32%"/>
+  <img src="obitos_semana_epidemiologica_brasil_media_new.png" width="32%"/>
+  <img src="estimativa_obitos_covid_19_03_03_2021.png" width="32%"/> 
   </p>
   
-  Gráfico atualizado (03/03/2021):
+  Gráfico atualizado (21/04/2021):
   
   <p align="center">
   <img src="estimativa_obitos_covid_19_21_04_2021.png" align=middle/>

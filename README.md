@@ -42,7 +42,7 @@ Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i
   <img src="obitos_srag_semana_epidemiologica_brasil_media.png" align=middle/>
   </p>
   
-  Gráficos antigos, com dados de 16/05/2020 e 03/01/2021, respectivamente:
+  Gráficos antigos, com dados de 16/05/2020, 03/01/2021 e 03/03/2021, respectivamente:
   
   <p align="center">
   <img src="estimativa_obitos_covid_19.png" width="33%"/>
